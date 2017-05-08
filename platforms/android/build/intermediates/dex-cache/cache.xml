@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Development_Lab/DevSpace/Ionic_App/ionic_example/githubionic/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79d68b70e2f02123c5a1205261f8c9cc038870de">
+        <dex dex="/Development_Lab/DevSpace/Ionic_App/ionic_example/githubionic/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_cdd06e0339869aef00f400b954cef54470f9c799.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,4 @@
+#Tue May 09 03:13:51 IST 2017
+base.0=/Development_Lab/DevSpace/Ionic_App/ionic_example/githubionic/platforms/android/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Development_Lab/DevSpace/Ionic_App/ionic_example/githubionic/platforms/android/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
